@@ -40,18 +40,12 @@ Directory: msn5-hydrated
 
 ## Annotated Runs
 
-This directory contains the outputs for the small fragmented system (MSN5 hydrated) where the `CRAY_ACC_DEBUG` environmental variable is set to level 2 to provide annotations within the log file related to OpenMP offloading.
+This directory contains the outputs for the small fragmented system (MSN5 hydrated) where the `CRAY_ACC_DEBUG` and `AMD_LOG_LEVEL` environmental variable is set to level 1 to provide annotations within the log file related to accelerator activities.
 
 Directory: annotated
 
-### RESDIM=1
-
 | Identifier | Filename                                    |
 |------------|---------------------------------------------|
-| msn5-hyd-resdim1-gpu-info [(link)]() | msn\_05frag\_4600water\_efmo\_rimp2.rcut1_0128N-0128-gpu-info.log |
+| msn5-hyd-resdim1-gpu-cce [(link)]() | msn\_05frag\_4600water\_efmo\_rimp2.rcut1_0128N-0128-gpu-cce.log |
+| msn5-hyd-resdim1-gpu-amd [(link)]() | msn\_05frag\_4600water\_efmo\_rimp2.rcut1_0128N-0128-gpu-amd.log |
 
-### RESDIM=2
-
-| Identifier | Filename                                    |
-|------------|---------------------------------------------|
-| msn5-hyd-resdim2-gpu-info [(link)]() | msn\_05frag\_4600water\_efmo\_rimp2.rcut2\_0128N-0128-gpu-info.log |
