@@ -38,14 +38,3 @@ Directory: msn5-hydrated
 | msn5-hyd-resdim2-cpu [(link)](https://raw.githubusercontent.com/gms-bbg/ecp-kpp2/main/msn5-hydrated/msn_05frag_4600water_efmo_rimp2.rcut2_0128N-0128-cpu.log) | msn\_05frag\_4600water\_efmo\_rimp2.rcut2\_0128N-0128-cpu.log | 10442.7 |     |
 | msn5-hyd-resdim2-gpu [(link)](https://raw.githubusercontent.com/gms-bbg/ecp-kpp2/main/msn5-hydrated/msn_05frag_4600water_efmo_rimp2.rcut2_0128N-0128-gpu.log) | msn\_05frag\_4600water\_efmo\_rimp2.rcut2\_0128N-0128-gpu.log |  2132.6 | 4.9 |
 
-## Annotated Runs
-
-This directory contains the outputs for the small fragmented system (MSN5 hydrated) where the `CRAY_ACC_DEBUG` and `AMD_LOG_LEVEL` environmental variable is set to level 1 to provide annotations within the log file related to accelerator activities.
-
-Directory: annotated
-
-| Identifier | Filename                                    |
-|------------|---------------------------------------------|
-| msn5-hyd-resdim1-gpu-cce [(link)]() | msn\_05frag\_4600water\_efmo\_rimp2.rcut1_0128N-0128-gpu-cce.log |
-| msn5-hyd-resdim1-gpu-amd [(link)]() | msn\_05frag\_4600water\_efmo\_rimp2.rcut1_0128N-0128-gpu-amd.log |
-
