@@ -29,15 +29,15 @@ This directory contains the inputs and outputs for a small fragmented system tha
 
 | Identifier | Filename | Total Wall time (s) | Speed-up (x) |
 |------------|----------|--------------------:|:------------:|
-| msn5-hyd-rcut1-cpu [(link)](https://raw.githubusercontent.com/gms-bbg/ecp-kpp2/main/msn5-hydrated/frontier/msn_05frag_4600water_efmo_rimp2.rcut1_0128N-0128-cpu.log) | msn\_05frag\_4600water\_efmo\_rimp2.rcut1_0128N-0128-cpu.log | 8002.7 |     |
-| msn5-hyd-rcut1-gpu [(link)](https://raw.githubusercontent.com/gms-bbg/ecp-kpp2/main/msn5-hydrated/frontier/msn_05frag_4600water_efmo_rimp2.rcut1_0128N-0128-gpu.log) | msn\_05frag\_4600water\_efmo\_rimp2.rcut1_0128N-0128-gpu.log | 1760.7 | 4.6 |
+| msn5-hyd-rcut1-cpu [(link)](https://raw.githubusercontent.com/colleeneb/ecp-kpp2/main/msn5-hydrated/frontier/msn_05frag_4600water_efmo_rimp2.rcut1_0128N-0128-cpu.log) | msn\_05frag\_4600water\_efmo\_rimp2.rcut1_0128N-0128-cpu.log | 8002.7 |     |
+| msn5-hyd-rcut1-gpu [(link)](https://raw.githubusercontent.com/colleeneb/ecp-kpp2/main/msn5-hydrated/frontier/msn_05frag_4600water_efmo_rimp2.rcut1_0128N-0128-gpu.log) | msn\_05frag\_4600water\_efmo\_rimp2.rcut1_0128N-0128-gpu.log | 1760.7 | 4.6 |
 
 ### Rcut=2
 
 | Identifier | Filename | Total Wall time (s) | Speed-up (x) |
 |------------|----------|--------------------:|:------------:|
-| msn5-hyd-rcut2-cpu [(link)](https://raw.githubusercontent.com/gms-bbg/ecp-kpp2/main/msn5-hydrated/frontier/msn_05frag_4600water_efmo_rimp2.rcut2_0128N-0128-cpu.log) | msn\_05frag\_4600water\_efmo\_rimp2.rcut2\_0128N-0128-cpu.log | 10442.7 |     |
-| msn5-hyd-rcut2-gpu [(link)](https://raw.githubusercontent.com/gms-bbg/ecp-kpp2/main/msn5-hydrated/frontier/msn_05frag_4600water_efmo_rimp2.rcut2_0128N-0128-gpu.log) | msn\_05frag\_4600water\_efmo\_rimp2.rcut2\_0128N-0128-gpu.log |  2132.6 | 4.9 |
+| msn5-hyd-rcut2-cpu [(link)](https://raw.githubusercontent.com/colleeneb/ecp-kpp2/intel/msn5-hydrated/frontier/msn_05frag_4600water_efmo_rimp2.rcut2_0128N-0128-cpu.log) | msn\_05frag\_4600water\_efmo\_rimp2.rcut2\_0128N-0128-cpu.log | 10442.7 |     |
+| msn5-hyd-rcut2-gpu [(link)](https://raw.githubusercontent.com/colleeneb/ecp-kpp2/intel/msn5-hydrated/frontier/msn_05frag_4600water_efmo_rimp2.rcut2_0128N-0128-gpu.log) | msn\_05frag\_4600water\_efmo\_rimp2.rcut2\_0128N-0128-gpu.log |  2132.6 | 4.9 |
 
 
 ### MSN5 Hydrated on Aurora
@@ -48,15 +48,15 @@ We have also run the MSN5 inputs on Aurora on 128 nodes, and received approval f
 
 | Identifier | Filename | Total Wall time (s) | Speed-up (x) |
 |------------|----------|--------------------:|:------------:|
-| msn5-hyd-rcut1-cpu [(link)](https://raw.githubusercontent.com/gms-bbg/ecp-kpp2/main/msn5-hydrated/aurora/msn_05frag_4600water_efmo_rimp2.rcut1_0128N-0128-cpu.log) | msn\_05frag\_4600water\_efmo\_rimp2.rcut1_0128N-0128-cpu.log | 2920.9 |     |
-| msn5-hyd-rcut1-gpu [(link)](https://raw.githubusercontent.com/gms-bbg/ecp-kpp2/main/msn5-hydrated/aurora/msn_05frag_4600water_efmo_rimp2.rcut1_0128N-0128-gpu.log) | msn\_05frag\_4600water\_efmo\_rimp2.rcut1_0128N-0128-gpu.log | 901.3 | 3.2 |
+| msn5-hyd-rcut1-cpu [(link)](https://raw.githubusercontent.com/colleeneb/ecp-kpp2/intel/msn5-hydrated/aurora/msn_05frag_4600water_efmo_rimp2.rcut1_0128N-0128-cpu.log) | msn\_05frag\_4600water\_efmo\_rimp2.rcut1_0128N-0128-cpu.log | 2920.9 |     |
+| msn5-hyd-rcut1-gpu [(link)](https://raw.githubusercontent.com/colleeneb/ecp-kpp2/intel/msn5-hydrated/aurora/msn_05frag_4600water_efmo_rimp2.rcut1_0128N-0128-gpu.log) | msn\_05frag\_4600water\_efmo\_rimp2.rcut1_0128N-0128-gpu.log | 901.3 | 3.2 |
 
 #### Rcut=2
 
 | Identifier | Filename | Total Wall time (s) | Speed-up (x) |
 |------------|----------|--------------------:|:------------:|
-| msn5-hyd-rcut2-cpu [(link)](https://raw.githubusercontent.com/gms-bbg/ecp-kpp2/main/msn5-hydrated/aurora/msn_05frag_4600water_efmo_rimp2.rcut2_0128N-0128-cpu.log) | msn\_05frag\_4600water\_efmo\_rimp2.rcut2\_0128N-0128-cpu.log | 3745.3 |     |
-| msn5-hyd-rcut2-gpu [(link)](https://raw.githubusercontent.com/gms-bbg/ecp-kpp2/main/msn5-hydrated/aurora/msn_05frag_4600water_efmo_rimp2.rcut2_0128N-0128-gpu.log) | msn\_05frag\_4600water\_efmo\_rimp2.rcut2\_0128N-0128-gpu.log |  1109.6 | 3.4 |
+| msn5-hyd-rcut2-cpu [(link)](https://raw.githubusercontent.com/colleeneb/ecp-kpp2/intel/msn5-hydrated/aurora/msn_05frag_4600water_efmo_rimp2.rcut2_0128N-0128-cpu.log) | msn\_05frag\_4600water\_efmo\_rimp2.rcut2\_0128N-0128-cpu.log | 3745.3 |     |
+| msn5-hyd-rcut2-gpu [(link)](https://raw.githubusercontent.com/colleeneb/ecp-kpp2/intel/msn5-hydrated/aurora/msn_05frag_4600water_efmo_rimp2.rcut2_0128N-0128-gpu.log) | msn\_05frag\_4600water\_efmo\_rimp2.rcut2\_0128N-0128-gpu.log |  1109.6 | 3.4 |
 
 ## MSN5 Hydrated Traces
 
